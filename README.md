@@ -2,7 +2,6 @@
 
 <div align="center">
 
-**多 Agent 智能运维平台 | Python · Java · Go 三语言实现**
 
 
 </div>
